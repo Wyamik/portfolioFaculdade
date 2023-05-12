@@ -1,0 +1,67 @@
+.main{
+    text-align: center;
+}
+
+
+.pagina{
+    display: none;
+
+}
+
+
+
+.active {
+    display:block;
+
+}
+
+
+nav{
+    bottom: 0!important;
+    position: fixed:important;
+}
+
+
+img{
+    border-radius: 50px;
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 13px;
+}
+
+html{
+    background-color: antiquewhite ;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+body{
+    background-color: antiquewhite ;
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid black;
+        
+}
+
+p1, li {
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0px;
+    text-align:center;
+    list-style-type: none;
+    
+}
